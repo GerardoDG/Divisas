@@ -24,4 +24,23 @@ class Program
 
         
     }
+
+    static void cambio()
+    {
+
+    }
+
+    static void obtenertipo()
+    {
+
+    }
+    static void transaccion()
+    {
+
+    }
+    static void comision()
+    {
+
+    }
+
 }
